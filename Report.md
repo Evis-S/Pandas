@@ -2,8 +2,16 @@ Summarizes the analysis
 In our study, we were given a total of 15 schools with a total of 39,170 students.
 A summary for our information is here.
 
-Total Schools	Total Students	Total Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
-0	15	            39,170	     $24,649,428.00	  78.985371	           81.87784	             74.980853	            85.805463	     65.172326
+Total Schools :15						      	                             	    
+Total Students :39,170	
+Total Budget: $24,649,428.00
+Average Math Score: 78.985371	
+Average Reading Score: 81.87784	
+% Passing Math: 74.980853
+% Passing Reading:  85.805463
+% Overall Passing:  65.172326
+
+
 
 
 In our study we will analyze the average of students in mathematics, reading and both together. And we will see if there is an impact on the results, the type of school, the budget per student and the number of students. If they influence, how do they influence?
